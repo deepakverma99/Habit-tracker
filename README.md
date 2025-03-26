@@ -21,7 +21,7 @@ A simple yet powerful Habit Tracker built using **React**, **TypeScript**, and *
 
 Clone the repository:
 ```sh
- git clone https://github.com/your-username/habit-tracker.git
+ git clone https://github.com/deepakverma99/Habit-tracker
  cd habit-tracker
 ```
 
