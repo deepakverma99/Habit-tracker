@@ -6,7 +6,7 @@ import DeleteIcon from "@mui/icons-material/Delete"
 const HabitList = () => {
   const { habits } = useHabitStore();
   const today = new Date().toISOString().split("T")[0];
-  const {habit,removeHabit,toggleHabit} = useHabitStore();
+  const {removeHabit,toggleHabit} = useHabitStore();
 
 
   const getStreak = (habit: Habit) => {
